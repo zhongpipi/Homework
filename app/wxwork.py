@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# This sample code uses the Appium python client
-# pip install Appium-Python-Client
-# Then you can paste this into a file and simply run with Python
-from time import sleep
 
 from appium import webdriver
 from appium.webdriver.common.mobileby import MobileBy
